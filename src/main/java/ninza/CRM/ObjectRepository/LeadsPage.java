@@ -21,6 +21,12 @@ public class LeadsPage {
 		PageFactory.initElements(driver, this);
 	}
 
+	
+	
+	public void sample()
+	{
+		
+	}
 	public WebElement getCreateLeadBtn() {
 		return createLeadBtn;
 	}
