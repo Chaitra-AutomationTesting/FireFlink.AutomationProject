@@ -13,7 +13,14 @@ public class AssertionsPrcatice extends BaseClass{
 	{
 		System.out.println("Step 1");
 		System.out.println("Step 2");
+		
+		
+		System.out.println("Step 1");
+		System.out.println("Step 2");
 		System.out.println("Step 3");
+		
+		
+		
 		
 		//Assert.assertEquals(1, 1); //match
 		
